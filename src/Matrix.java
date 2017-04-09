@@ -36,4 +36,14 @@ public class Matrix {
         return matrix;
     }
 
+    public static double[][] addMatrix(double[][] matrixOne, double[][] matrixTwo){
+        double[][] result = new double[matrixOne.length][matrixOne.length];
+        for(int i = 0; i < matrixOne.length; i++){
+            for(int j = 0; j < matrixOne.length; j++){
+                result[i][j] = matrixOne[i][j] + matrixTwo[i][j];
+            }
+        }
+        return result;
+    }
+
 }
