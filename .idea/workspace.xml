@@ -46,12 +46,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HopfieldNetwork.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HopfieldNetwork.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HopfieldNetwork.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-              <folding />
+            <state vertical-scroll-proportion="0.43707713" vertical-offset="0" max-vertical-offset="782">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7239513" vertical-offset="111" max-vertical-offset="935">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="935">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding>
                 <element signature="e#549#550#0" expanded="true" />
                 <element signature="e#604#605#0" expanded="true" />
@@ -86,9 +89,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/Utils.java" />
         <option value="$PROJECT_DIR$/src/ActivationFunction.java" />
-        <option value="$PROJECT_DIR$/src/HopfieldNetwork.java" />
         <option value="$PROJECT_DIR$/src/App.java" />
         <option value="$PROJECT_DIR$/src/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/HopfieldNetwork.java" />
       </list>
     </option>
   </component>
@@ -471,12 +474,12 @@
       <created>1491765177180</created>
       <option name="number" value="Default" />
       <updated>1491765177180</updated>
-      <workItem from="1491765185561" duration="1475000" />
+      <workItem from="1491765185561" duration="2090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1475000" />
+    <option name="totallyTimeSpent" value="2090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -539,14 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HopfieldNetwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
@@ -565,11 +560,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7239513" vertical-offset="111" max-vertical-offset="935">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="935">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
             <element signature="e#549#550#0" expanded="true" />
             <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HopfieldNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43707713" vertical-offset="0" max-vertical-offset="782">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
           </folding>
         </state>
       </provider>
